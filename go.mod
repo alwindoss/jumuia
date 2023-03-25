@@ -1,3 +1,3 @@
-module github.com/alwindoss/jumuia
+module github.com/jumuia/jumuia
 
 go 1.20
